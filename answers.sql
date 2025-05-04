@@ -1,5 +1,5 @@
 -- QUESTION 1
- --  Question 1
+
 CREATE TABLE ProductDetail (
     OrderID INT,
     CustomerName VARCHAR(100),
